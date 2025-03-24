@@ -1,0 +1,10 @@
+{
+  "name": "New UI",
+  "description": "Esta estension busca mejorar la interfaz grafica del navegador adaptandose a tus gustos y preferencias",
+  "version": "beta_1.0",
+  "manifest_version": beta_1.0,
+  "action": {
+    "default_popup": "Index.html",
+    "default_icon": "Logo.png"
+  }
+}
